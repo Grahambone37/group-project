@@ -32,8 +32,8 @@ main h2 {
 }
 
 .my-style {
-    color: teal;
-    background-color: red;
+    color: red;
+    background-color: teal;
     padding: 3px;
     border: solid blue;
 }
